@@ -7,6 +7,7 @@ Participantes:
 Objetivo del proyecto: identificar las diferentes opiniones que los usuarios destacan en sus experiencias, siendo principalmente respecto a la calidad del producto
 
 Descripción del dataset:El dataset utilizado contiene más de 568,000 reseñas de diversos productos de Amazon. Las variables incluidas en este conjunto de datos son: Id, ProductId, UserId, ProfileName, HelpfulnessNumerator, HelpfulnessDenominator, Score, Time, Summary y Text.
+
 Fuente: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews/data
 
 Conclusión:
