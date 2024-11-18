@@ -1,6 +1,6 @@
-data/Reviews.csv
-results/
-modelo/
-logs/
-logs_best/
-results_best/
+code/data/Reviews.csv
+/code/results/
+/code/modelo/
+/code/logs/
+/code/logs_best/
+/code/results_best/
